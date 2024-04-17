@@ -1,9 +1,23 @@
-h1 {
+h1, h2, h3, h4 {
 	color: darkred;
-	font-size: 20px;
+	font-size: 30px;
+	font-family: "ALKDots", sans-serif;
+	line-height: 50px;
 }
 
-h2 {
+/*h2 {
 	color: seagreen;
 	font-size: 30px;
+	font-family: "BPG Glaho Bold", sans-serif;
+}*/
+
+h5 {
+	font-size: 40px;
+	font-family: "Roboto", sans-serif;
+	font-weight: 100;
+	font-style: italic;
+}
+
+h6 {
+	font-size: 40px;
 }
